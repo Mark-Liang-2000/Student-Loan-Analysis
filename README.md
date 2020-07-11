@@ -8,7 +8,8 @@ Download or clone a copy of the information provided. Input the data to be analy
 
 Prerequisites: 
 
-Jupyter notebook, Excel
+Jupyter notebook
+Excel
 
 Built With:
 
@@ -17,8 +18,6 @@ Excel - Data resource
 
 Authors:
 
-Martin Wilson
-
 Mark Liang
 
 License:
@@ -26,3 +25,4 @@ License:
 This project is licensed under the MIT License - see the LICENSE.md file for details
 
 Acknowledgments:
+Martin Wilson for coding the data cleaning
